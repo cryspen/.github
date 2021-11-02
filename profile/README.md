@@ -1,4 +1,4 @@
-<img align="left" src="./logo.png"><br/><br/>
+<img align="left" src="/profile/logo.png"><br/><br/>
 
 ##### 🔐 High Assurance Crypto Solutions 🤝
 
