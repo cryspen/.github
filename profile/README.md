@@ -12,4 +12,4 @@ Our mission is to provide services and software for high assurance cryptography 
 * [OpenMLS](https://openmls.tech/) ([Github](https://github.com/openmls/openmls/))
 * [hacspec](https://github.com/hacspec/hacspec)
 
-[logo]: logo.png
+[logo]: profile/logo.png
