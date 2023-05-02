@@ -1,6 +1,4 @@
-![][logo]
-
-## High Assurance Cryptography
+## Cryspen
 
 Our mission is to provide services and software for high assurance cryptography in order to establish trust into your critical systems.
 
@@ -8,8 +6,8 @@ Our mission is to provide services and software for high assurance cryptography 
 * [Blog](https://blog.cryspen.com/)
 
 ### Software & Tools
-* [HACL Packages](https://tech.cryspen.com/hacl-packages/) ([Github](https://github.com/cryspen/hacl-packages/))
-* [OpenMLS](https://openmls.tech/) ([Github](https://github.com/openmls/openmls/))
-* [hacspec](https://github.com/hacspec/hacspec)
+* [libcrux](https://github.com/cryspen/libcrux) - the formally verified crypto library
+* [OpenMLS](https://openmls.tech/) ([Github](https://github.com/openmls/openmls/)) - a Rust implementation of [MLS](https://datatracker.ietf.org/doc/html/draft-ietf-mls-protocol)
+* [hacspec](https://github.com/hacspec/hacspec) - a framework to write formally verifiable specifications and code
 
 [logo]: profile/logo.png
