@@ -2,8 +2,8 @@
 
 Our mission is to provide services and software for high assurance cryptography in order to establish trust into your critical systems.
 
-* [Website](https://www.cryspen.com/)
-* [Blog](https://blog.cryspen.com/)
+* [Website](https://cryspen.com/)
+* [Blog](https://cryspen.com/blog)
 
 ### Software & Tools
 * [libcrux](https://github.com/cryspen/libcrux) - the formally verified crypto library
